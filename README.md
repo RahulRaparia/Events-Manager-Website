@@ -1,5 +1,3 @@
-#Introduction
-
 This is an Events amanger website created with the help of JavaScripts and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Using this website you can add events and out of those events you can mark your favorites. Your favorite events in the Favorites section. The little counter next to this tabs indicates the number of favorites you have at present. All your data will be saved as this website is connected to a firebase realtime database.
